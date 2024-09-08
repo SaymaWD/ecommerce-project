@@ -192,6 +192,26 @@ header .navbar .container .navbar-nav .nav-item:hover .nav-link{
     border: 1px #ef4749 solid;
 }
 
+.products .offer-slider{
+    background-image: url("../img/deals-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+}
+
+.products .offer-slider h3{
+    color: #ef4749;
+    font-size: 44px;
+    margin: 0 auto 10px;
+    font-weight: 400;
+    display: block;
+    padding: 0;
+    text-align: center;
+    letter-spacing: -1px;
+    font-family: 'PT Sans', sans-serif;
+}
+
 footer .footer-bottom{
     padding: 2rem 0 1rem;
     background-color: #333;
